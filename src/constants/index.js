@@ -48,7 +48,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+    name: "Alex Jensen",
     title: "Founder & Leader",
     img: people01,
   },
@@ -57,7 +57,7 @@ export const feedback = [
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "CEO",
     img: people02,
   },
   {
@@ -74,17 +74,17 @@ export const stats = [
   {
     id: "stats-1",
     title: "User Active",
-    value: "3800+",
+    value: "2500+",
   },
   {
     id: "stats-2",
     title: "Trusted by Company",
-    value: "230+",
+    value: "340+",
   },
   {
     id: "stats-3",
     title: "Transaction",
-    value: "$230M+",
+    value: "$170M+",
   },
 ];
 
@@ -105,10 +105,6 @@ export const footerLinks = [
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
-      },
-      {
         name: "Terms & Services",
         link: "https://www.hoobank.com/terms-and-services/",
       },
@@ -124,10 +120,6 @@ export const footerLinks = [
       {
         name: "Partners",
         link: "https://www.hoobank.com/partners/",
-      },
-      {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
       },
       {
         name: "Blog",
